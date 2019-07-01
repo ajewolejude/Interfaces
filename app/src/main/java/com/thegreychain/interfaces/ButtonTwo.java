@@ -1,6 +1,6 @@
 package com.thegreychain.interfaces;
 
-public class ButtonOne {
+public class ButtonTwo {
 
     private OnWidgetClickListener onWidgetClickListener;
 
@@ -8,9 +8,7 @@ public class ButtonOne {
         this.onWidgetClickListener = onWidgetClickListener;
     }
 
-
-
-    public ButtonOne() {
+    public ButtonTwo() {
     }
 
     /**Onclick fires when a user clicks this button.
